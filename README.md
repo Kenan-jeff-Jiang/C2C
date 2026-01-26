@@ -31,11 +31,13 @@ Feel free to star the repo or cite the paper if you find it interesting.
 
 ## News
 
+[2026/01] 🎉 Our paper is accepted by the ICLR'26 conference. Welcome to discuss more about it in Brazil.
+
 [2025/12] 🧪 Multi-sharer support is now available! Fuse KV-caches from multiple sharer models to a single receiver. This feature is in preliminary stages and we are still actively working on it. See `live_chat_example.py` for usage.
 
 [2025/11] 🚀 Thank you for the enthusiasm from the community! [Live demo](https://huggingface.co/spaces/nics-efc/C2C_demo) is now available! Try C2C in action with side-by-side model comparison.
 
-[2025/10] 🤗 Our paper was featured as the **#1 Paper of the Day** on [Hugging Face Daily Papers](https://huggingface.co/papers/2510.03215)
+[2025/10] 🤗 Our paper is featured as the **#1 Paper of the Day** on [Hugging Face Daily Papers](https://huggingface.co/papers/2510.03215)
 
 ## Demo
 
