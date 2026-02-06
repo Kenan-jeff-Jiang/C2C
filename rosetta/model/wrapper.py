@@ -435,8 +435,8 @@ class RosettaModel(nn.Module):
                 if self.include_response:
                     self.remove_hooks(hook_handlers)
 
-                self.kv_cache_dict[self.base_model_idx][self.base_model_idx] = clone_kv_cache(base_output_kv_cache)
-                self.kv_cache_dict[self.base_model_idx][1] = clone_kv_cache(source_output_kv_cache)
+                    self.kv_cache_dict[self.base_model_idx][self.base_model_idx] = clone_kv_cache(base_output_kv_cache)
+                    self.kv_cache_dict[self.base_model_idx][1] = clone_kv_cache(source_output_kv_cache)
 
             else:
 
